@@ -1,3 +1,3 @@
 # Call-Center Analysis Dashboard using Power bi
 
- In this dashboard i am analyze various type of call recording data.in depth to analysis would you to open my dashboard,because u seen that i am creating  visuals is very simple to understand data.this data is about 32k+ rows.in that i analysis total calls,total hr,and many kpi created.
+The call center analysis dashboard provide a comrehensive overview of key performance indicator,it include matrics such as call volume,average handling time,total call by,sentimental analysis.the user friendly interface offfers interactive visualization,trend analysis.and with custmizable feature,the dashboard empowers organization,city to track KPIs,identify pattern to improve customer services..
